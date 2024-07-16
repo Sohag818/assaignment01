@@ -131,4 +131,10 @@ nav{
     border-radius: 5px;
     background-color: #FFFFFF;
 }
+.footer-2{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 50px;
+}
 
