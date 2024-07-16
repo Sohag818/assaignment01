@@ -1,0 +1,58 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 100px 0px 100px;
+}
+.text-1{
+    color: rgb(245, 11, 11);
+}
+.nav-tittle-1{
+    list-style: none;
+}
+.open-sans-normal{
+    font-family:"Open Sans",sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"with"100px;
+}
+.banar-tittle{
+    background-image: url(../assignment01/B10A1-Challenge-Begins/assets/Hero-bg.png);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 1000px;
+    height: 550px;
+    padding: 120px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.banar-pic{
+    size: 200px;
+    width: none;
+}
+.banar-sub-tittle{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.btn-2{
+    font-size: fixed;
+    color:white;
+    padding: 10px 24px;
+    border-radius: 5px;
+    background-color: black;
+}
+.btn-1{
+    font-size: fixed;
+    color:black;
+    padding: 10px 24px;
+    border-radius: 5px;
+    background-color: white;
+}
+.h4{
+    font-size: 30px;
+    font-weight: 998px;
+}
